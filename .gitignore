@@ -1,0 +1,19 @@
+# Node / Frontend
+node_modules/
+.nuxt/
+.output/
+dist/
+
+# Python / Backend
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Variáveis de ambiente e segredos
+.env
+.env.local
+
+# Editor / SO
+.vscode/
+.DS_Store
